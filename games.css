@@ -1,0 +1,45 @@
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(244, 74, 171);
+    text-decoration: none;
+    color: white;
+    border: none;
+    height: 27.5px;
+    width: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Roboto, Arial;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+div {
+    display: flex;
+}
+
+.others {
+    position: relative;
+    left: 780px;
+    bottom: -118px;
+    position: sticky;
+    padding-bottom: 500px;
+    width: 200px;
+    color: rgb(0, 255, 238);
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.sticky {
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 17.5px;
+}
+
+li a {
+    color: blue;
+    text-decoration: none;
+}

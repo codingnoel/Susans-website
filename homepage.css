@@ -1,0 +1,56 @@
+p {
+    font-family: Roboto, Arial;
+    display: inline-block;
+}
+
+.head {
+    font-size: 40px;
+    text-align: center;
+    color: pink;
+    display: block;
+}
+
+img {
+    height: 75px;
+    width: 75px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.head1 {
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    margin-bottom: 60px;
+}
+
+.section-1 {
+    height: 600px;
+    width: 400px;
+    display: inline-block;
+}
+
+
+.others {
+    position: relative;
+    left: 780px;
+    bottom: -118px;
+    position: sticky;
+    padding-bottom: 500px;
+    width: 200px;
+    color: rgb(0, 255, 238);
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.sticky {
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 17.5px;
+}
+
+li a {
+    color: blue;
+    text-decoration: none;
+}
